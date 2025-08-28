@@ -13,22 +13,10 @@ var siteConfig = {
       "id": "occurrenceKey"
     },
     {
-      "id": "collectionSearch"
-    },
-    {
-      "id": "collectionKey"
-    },
-    {
       "id": "datasetSearch"
     },
     {
       "id": "datasetKey"
-    },
-    {
-      "id": "institutionSearch"
-    },
-    {
-      "id": "institutionKey"
     },
     {
       "id": "literatureSearch"
@@ -39,8 +27,6 @@ var siteConfig = {
     // TODO: you should remove types you do not want to use
     "OCCURRENCE",
     "DATASET",
-    "COLLECTION",
-    "INSTITUTION",
     "LITERATURE"
   ],
   "dataHeader": {
@@ -75,17 +61,6 @@ var siteConfig = {
       "cmsLocale": "en-GB",
       "gbifOrgLocalePrefix": "",
       "mapTileLocale": "en"
-    },
-    {
-      "code": "da",
-      "localeCode": "da",
-      "label": "Dansk",
-      "default": false,
-      "textDirection": "ltr",
-      "iso3LetterCode": "dan",
-      "cmsLocale": "en-GB",
-      "gbifOrgLocalePrefix": "",
-      "mapTileLocale": "en"
     }
   ],
   "messages": {},
@@ -94,44 +69,42 @@ var siteConfig = {
       "type": "in",
       "key": "publishingOrg",
       "values": [
-        "760d5f24-4c04-40da-9646-1b2c935da502",
-        "2e7df380-8356-4533-bcb3-5459e23c794e",
-        "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
+        "cdef28b1-db4e-4c58-aa71-3c5238c2d0b5",
       ]
     },
     "highlightedFilters": [
       "taxonKey",
-      "verbatimScientificName",
-      "institutionKey",
-      "collectionKey",
-      "catalogNumber",
+      "country",
       "recordedBy",
       "identifiedBy"
     ],
     "excludedFilters": [
+      "datasetId",
+      "datasetName",
       "occurrenceStatus",
       "networkKey",
       "hostingOrganizationKey",
+      "publishingOrg",
+      "publishedByGbifRegion",
       "protocol",
       "publishingCountry",
       "institutionCode",
-      "collectionCode"
+      "collectionCode",
+      "collectionKey",
+      "institutionKey",
     ],
     "defaultEnabledTableColumns": [
       "features",
-      "institutionKey",
-      "collectionKey",
-      "catalogNumber",
       "country",
       "year",
-      "recordedBy",
-      "identifiedBy"
+      "eventDate",
+      "datasetKey",
     ],
     "tabs": [
       "table",
-      "gallery",
-      "map",
-      "clusters",
+      // "gallery",
+      // "map",
+      // "clusters",
       "dashboard",
       "download"
     ],
@@ -141,33 +114,13 @@ var siteConfig = {
       "zoom": 4.911544076366507
     }
   },
-  "collectionSearch": {
-    excludedFilters: ['country', 'active'],
-    // highlightedFilters: ['q', 'type', 'publishingOrg', 'license'],
-    // defaultTableColumns: ['title', 'description', 'publisher', 'type', 'occurrenceCount', 'literatureCount'],
-    scope: {
-      // TODO: you should add a scope here if you need search to be limited to a subset
-      // search filters have the format {field: [values]}
-      active: true
-    },
-  },
-  "institutionSearch": {
-    // excludedFilters: ['country', 'active'],
-    // highlightedFilters: ['q', 'type'],
-    // defaultTableColumns: ['title', 'type'],
-    scope: {
-      // TODO: you should add a scope here if you need search to be limited to a subset
-      // search filters have the format {field: [values]}
-      active: true
-    }
-  },
   "datasetSearch": {
     excludedFilters: ['publishingCountry', 'networkKey', 'projectId', 'hostingOrg'],
     highlightedFilters: ['q', 'type', 'publishingOrg', 'license'],
     scope: {
       // TODO: you should add a scope here if you need search to be limited to a subset
       // search filters have the format {field: [values]}
-      type: ['OCCURRENCE', 'CHECKLIST']
+      publishingOrg: ['cdef28b1-db4e-4c58-aa71-3c5238c2d0b5']
     },
   },
   "publisherSearch": {},
@@ -178,9 +131,7 @@ var siteConfig = {
       "type": "in",
       "key": "publishingOrganizationKey",
       "values": [
-        "760d5f24-4c04-40da-9646-1b2c935da502",
-        "2e7df380-8356-4533-bcb3-5459e23c794e",
-        "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
+        "cdef28b1-db4e-4c58-aa71-3c5238c2d0b5"
       ]
     }
   }

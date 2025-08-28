@@ -6,12 +6,10 @@
 #   href: /occurrence/search
 - text: Data
   menu: 
-  - text: Occurrences
-    href: /occurrence/search
   - text: Datasets
     href: /dataset/search
-  - text: Collections
-    href: /collection/search
+  - text: Occurrences
+    href: /occurrence/search
   - text: Literature
     href: /literature/search
 - text: Example pages

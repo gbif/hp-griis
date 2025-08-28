@@ -1,18 +1,18 @@
 ---
 lang-ref: home
 layout: home
-title: Template_site
+title: Global Register of Introduced and Invasive Species
 description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
 background: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
 imageLicense: |
   [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
 height: 90vh
 cta:
-  - text: Occurrences
-    href: /occurrence/search
-    isPrimary: true
   - text: Datasets
     href: /dataset/search
+    isPrimary: true
+  - text: citations
+    href: /literature/search
   - text: About
     href: /about
 composition:
