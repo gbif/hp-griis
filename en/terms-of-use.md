@@ -2,6 +2,7 @@
 permalink: terms-of-use
 lang-ref: terms-of-use
 title: Terms of use
+height: 12vh
 ---
 
 # Terms of use
