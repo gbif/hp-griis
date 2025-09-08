@@ -2,7 +2,6 @@
 permalink: terms-of-use
 lang-ref: terms-of-use
 title: Terms of use
-height: 70vh
 ---
 
 # Terms of use
