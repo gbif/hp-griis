@@ -2,7 +2,7 @@
 permalink: contact
 lang-ref: contact
 title: Contact
-height: 10vh
+height: 12vh
 ---
 
 ## About

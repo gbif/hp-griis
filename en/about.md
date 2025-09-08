@@ -3,10 +3,7 @@ permalink: about
 lang-ref: about
 title: About the Global Register of Introduced and Invasive Species (GRIIS)
 description: Global Register of Introduced and Invasive Species (GRIIS)
-background: /assets/images/placeholders/moss.jpg
-imageLicense: |
-  None for this image, but it would normally go here. Markdown is allowed.
-height: 70vh
+height: 12vh
 ---
 
 # Global Register of Introduced and Invasive Species
