@@ -2,25 +2,17 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-columns:
-  - name: Column example
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
 
-  - name: Code
+ columns:
+  - name: Contact us
     description: | # Can be Markdown
-      See `_data/footer.yml` to customize the footer.
-  
-  - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
-    connectIcons: true
+      * Please direct all enquiries to:
+      * Shyama Pagad
+      * Deputy Chair Information, IUCN SSC Invasive Species Specialist Group / University of Auckland, Auckland, New Zealand
+      * [s.pagad@auckland.ac.nz](mailto:s.pagad@auckland.ac.nz)   
+    connectIcons: false
+  - description: |
+      GRIIS has been developed with co-funding from the European Union through the Secretariat of the Convention on Biological Diversity within the framework of the Global Invasive Alien Species Information Partnership (GIASIPartnership). The GIASIPartnership has come together in order to assist Parties to the Convention on Biological Diversity, and others, implement Article 8(h) and Target 9 of the Aichi Biodiversity Targets – “By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 
   # EXAMPLE
   #- name: Group name
@@ -33,10 +25,3 @@ columns:
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
 
-
-# Small print license statement to add at the bottom of the footer. Can be Markdown
-# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
-# Will be postfixed by "Powered by GBIF"
-# (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
