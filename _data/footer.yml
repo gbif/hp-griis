@@ -12,6 +12,9 @@
       * [s.pagad@auckland.ac.nz](mailto:s.pagad@auckland.ac.nz)   
     connectIcons: false
   - description: |
+      <img src="/assets/images/iucn_logo.png" alt="IUCN" style="width: 700px; height: 100px"/>
+      <img src="/assets/images/logo_giasi.png" alt="GIASIPartnership" style="width: 700px; height: 100px"/>
+  - description: |
       GRIIS has been developed with co-funding from the European Union through the Secretariat of the Convention on Biological Diversity within the framework of the Global Invasive Alien Species Information Partnership (GIASIPartnership). The GIASIPartnership has come together in order to assist Parties to the Convention on Biological Diversity, and others, implement Article 8(h) and Target 9 of the Aichi Biodiversity Targets – “By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
 
   # EXAMPLE
