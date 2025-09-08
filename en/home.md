@@ -19,10 +19,10 @@ composition:
   - type: heroImage # the block type
   - type: stats
     data: examples.stats
-  - type: split
-    data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
+  # - type: split
+  #   data: examples.herbariumImageExample
+  # - type: features
+  #   data: examples.couldBeAnyName
 permalink: /
 ---
 
