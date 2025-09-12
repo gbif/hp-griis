@@ -2,7 +2,9 @@
 permalink: terms-of-use
 lang-ref: terms-of-use
 title: Terms of use
-height: 12vh
+description: Global Register of Introduced and Invasive Species (GRIIS)
+background: /assets/images/background_color.png
+height: 24vh
 ---
 
 # Terms of use
