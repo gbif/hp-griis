@@ -29,6 +29,10 @@ $navbar-breakpoint: 1100px;
   margin: auto;
 }
 
+a {
+  color: blue;
+}
+
 @import "theme/_main";
 
 // You can add additional styling here
