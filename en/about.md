@@ -1,9 +1,10 @@
 ---
 permalink: about
 lang-ref: about
-title: About the Global Register of Introduced and Invasive Species (GRIIS)
+title: About
 description: Global Register of Introduced and Invasive Species (GRIIS)
-height: 12vh
+background: /assets/images/background_color.png
+height: 24vh
 ---
 
 # Global Register of Introduced and Invasive Species
