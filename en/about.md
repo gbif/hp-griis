@@ -9,43 +9,23 @@ height: 24vh
 
 # Global Register of Introduced and Invasive Species
 
-The Global Register of Invasive Species (GRIS) was developed as a concept and prototype by the IUCN SSC Invasive Species Specialist Group (ISSG) in 2006 as part of a project undertaken for the Defenders of Wildlife on the Regulation of Live Animal Imports into the United States.
+A “Joint Work Programme to Strengthen Information Services on Invasive Alien Species as a Contribution towards Aichi Biodiversity Target 9” (UNEP/CBD/SBSTTA/15/INF/14) was developed to improve access to the necessary information during a workshop organized by the Global Biodiversity Information Facility (GBIF) in Copenhagen, Denmark in 2011.  The 15th *Subsidiary Body on Scientific, Technical and Technological Advice* SBSTTA welcomed the Joint Work Programme. Subsequently a workshop held in July 2012 at the Natural History Museum in the United Kingdom with key invasive alien species data providers prepared the “Operational Plan for the Global Invasive Alien Species Information Partnership (GIASI Partnership)” (UNEP/CBD/COP/11/INF/34).
 
-The concept was revisited and expanded by the ISSG to address Aichi Biodiversity Target 9 and support its achievement— with the development of the Global Register of Introduced and Invasive Species (GRIIS). GRIIS, hosted by the ISSG, compiles annotated and verified country-wise inventories of introduced and invasive species. Development and population of the GRIIS were undertaken by the ISSG within the framework of activities of the Information Synthesis and Assessment Working Group of the Global Invasive Alien Species Information Partnership (GIASIP).
+The Conference of the Parties to the CBD -COP-11 welcomed the development of the Global Invasive Alien Species Information Partnership (GIASI Partnership) and requested the Executive Secretary to facilitate its implementation (paragraph 22 of decision XI/28).
 
-## A summary of the process
+The development of the Global Register of Introduced and Invasive Species (GRIIS) and a Pathway management Resource was identified as one of three priority activities of the Partnership. The IUCN ISSG was recognised to lead this activity with partners such as CABI.
 
-- The compiler team will conduct a comprehensive literature review of authoritative and credible source information and develop a draft annotated country inventory of introduced and invasive species.
-- Annotations include species name (accepted name and synonym if used by the source), higher taxonomy, environmental/system in which the species occurs, biological status (provenance and invasiveness—evidence of impact).
-- Country editor/editors are identified and consulted with for advice, including knowledge of any key resources.
-- The draft inventory is posted on the GRIIS website.
-- Draft inventories are submitted to country editors for review for both accuracy of information and identification of any significant gaps. Revisions are implemented based on feedback.
-- Every species record includes a check (indication) if the status has been verified as feedback is received. In cases where ‘evidence of impact’ information is gathered from peer-reviewed literature or reports, the species status will be considered 'verified.'
-- Names of the editors as well as the complete reference list of sources consulted are recorded.
-- Updates will be implemented every six months, including changes in species status or new records.
+GRIIS continues to support national governments in the achievement of Biodiversity targets set in the Global Biodiversity Framework.
 
-## Notes on the annotations
+Target 6 of the Kunming-Montreal Global Biodiversity Framework states Eliminate, minimize, reduce and or mitigate the impacts of invasive alien species on biodiversity and ecosystem services by identifying and managing pathways of the introduction of alien species, preventing the introduction and establishment of priority invasive alien species, reducing the rates of introduction and establishment of other known or potential invasive alien species by at least 50 per cent, by 2030, eradicating or controlling invasive alien species especially in priority sites, such as islands.
 
-- Species names recorded from source information are referred to the GBIF taxonomic editor. If the source species name is a synonym, the accepted name is also recorded. This helps ensure consistent taxonomy across all inventories.
-- Higher taxonomy includes Kingdom, Phylum, Class, Order, Genus, and Species with species authority.
-- Environment system is categorized as terrestrial, freshwater, brackish, marine, host, and combinations.
-- Provenance:
-  - (a) as recorded by the source information
-  - (b) as interpreted by the compiler. Three options applied are alien, native/alien (if the species is native in a part of a country and alien in another part), or provenance uncertain/cryptogenic.
-- Evidence of impact is a binary choice of Yes/No.
-- Source information includes the complete citation with a link, if available.
+The monitoring framework for the Kunming-Montreal Global Biodiversity Framework provides a set of headline, binary, component and complementary indicators for use in national biodiversity strategies and action plans and national reports. Parties to the Convention on Biological Diversity endorsed the technical updates to the headline and binary indicators at COP 16 (see [CBD/COP/DEC/16/31](https://www.cbd.int/doc/decisions/cop-16/cop-16-dec-31-en.pdf)).
 
-Published GRIIS Checklists can be downloaded from: [https://www.gbif.org/publisher/cdef28b1-db4e-4c58-aa71-3c5238c2d0b5](https://web.archive.org/web/20241005010339/https://www.gbif.org/publisher/cdef28b1-db4e-4c58-aa71-3c5238c2d0b5)
+The GRIIS checklist datasets are identified as one of the key resources in the development of the headline indicator for Target 6 “Rate of invasive alien species establishment”.
 
-The published methods underpinning GRIIS and each Checklist are:
-Pagad S, Genovesi P, Carnevali L, Schigel D, McGeoch MA (2018) Introducing the Global Register of Introduced and Invasive Species. *Scientific Data, 5, 170202*.
-[https://www.nature.com/articles/sdata2017202](https://web.archive.org/web/20241005010339/https://www.nature.com/articles/sdata2017202)
+The Global Register of Introduced and Invasive Species (GRIIS) presents validated and verified national and subnational checklists of introduced (alien) and invasive alien species. 
 
-A Country Compendium of the Global Register of Introduced and Invasive Species was published recently:
-Pagad, S., Bisset, S., Genovesi, P. et al. *Country Compendium of the Global Register of Introduced and Invasive Species. Sci Data 9, 391 (2022).* [https://doi.org/10.1038/s41597-022-01514-z](https://www.nature.com/articles/s41597-022-01514-z)
+The published methods underpinning GRIIS and each Checklist is described in Pagad S, Genovesi P, Carnevali L, Schigel D, McGeoch MA (2018) Introducing the Global Register of Introduced and Invasive Species. Scientific Data, 5, 170202. https://www.nature.com/articles/sdata2017202
 
-The Country Compendium of the Global Register of Introduced and Invasive Species (GRIIS) is a collation of data across 196 individual country checklists of alien species, along with a designation of those species with evidence of impact at a country level. The Compendium provides a baseline for monitoring the distribution and invasion status of all major taxonomic groups and can be used for global analyses of introduced (alien, non-native, exotic) and invasive species (invasive alien species), including regional, single, and multi-species taxon assessments and comparisons. It enables exploration of gaps and inferred absences of species across countries and provides one means for updating individual GRIIS Checklists. The Country Compendium is instrumental, along with data on first records of introduction, for assessing and reporting on invasive alien species targets, including for the Convention on Biological Diversity and Sustainable Development Goals. The GRIIS Country Compendium provides a baseline and mechanism for tracking the spread of introduced and invasive alien species across countries globally.
-
----
-
-*The development of the Global Register of Introduced and Invasive Species (GRIIS) is an initiative supported by the Secretariat of the Convention on Biological Diversity (CBD) and is implemented within the framework of the Global Invasive Alien Species Information Partnership. The IUCN SSC Invasive Species Specialist Group is the project lead. The resource supports Parties in making progress toward achieving Aichi Target 9 in the development of their National Biodiversity Strategy and Action Plans, their National Invasive Alien Species Strategy and Action Plan, target setting, and monitoring.*
+A Country Compendium of the Global Register of Introduced and Invasive Species was published in 2022.
+ Pagad, S., Bisset, S., Genovesi, P. et al. Country Compendium of the Global Register of Introduced and Invasive Species. Sci Data 9, 391 (2022). https://doi.org/10.1038/s41597-022-01514-z
