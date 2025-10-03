@@ -1,8 +1,8 @@
 ---
-title:  "GRIIS will be publishing thematic datasets starting November 2025"
-date:   2025-10-03 11:00:00 +0000
-categories: updates griis
-lang-ref: griis publishing thematic datasets
+title:  "GRIIS will be publishing thematic datasets starting November 2025."
+date:   2025-10-03 15:00:00 +0000
+categories: ["griis"]
+lang-ref: griis thematic datasets
 background: /assets/images/bombus_ruderatus.jpg
 ---
 GRIIS will be publishing thematic datasets starting November 2025. The first thematic dataset will be a checklist of introduced and invasive pollinators.
