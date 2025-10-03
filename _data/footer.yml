@@ -13,14 +13,11 @@
     connectIcons: false
   - description: |
       <img src="/assets/images/iucn_logo.png" alt="IUCN" style="width: 78px; height: 75px"/>
-      <img src="/assets/images/logo_giasi.png" alt="GIASIPartnership" style="width: 182px; height: 70px"/>
   - description: |
       <img src="/assets/images/logo_issg.png" alt="Invasive Species Specialist Group" style="width: 300px; height: 128px"/>
-      <img src="/assets/images/logo_ue.png" alt="European Union" style="width: 113px; height: 75px"/>
   - description: |
       <img src="/assets/images/logo_cbd.png" alt="Convention on Biological Diversity" style="width: 223px; height: 75px"/>
-  - description: |
-      GRIIS has been developed with co-funding from the European Union through the Secretariat of the Convention on Biological Diversity within the framework of the Global Invasive Alien Species Information Partnership (GIASIPartnership). The GIASIPartnership has come together in order to assist Parties to the Convention on Biological Diversity, and others, implement Article 8(h) and Target 9 of the Aichi Biodiversity Targets – “By 2020, invasive alien species and pathways are identified and prioritized, priority species are controlled or eradicated, and measures are in place to manage pathways to prevent their introduction and establishment.
+      <img src="/assets/images/logo_giasi.png" alt="GIASIPartnership" style="width: 182px; height: 70px"/>
 
   # EXAMPLE
   #- name: Group name
