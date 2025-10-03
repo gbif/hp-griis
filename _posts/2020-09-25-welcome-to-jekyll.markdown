@@ -1,30 +1,13 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2020-09-25 21:37:12 +0200
-categories: jekyll update
-lang-ref: welcome to jekyll
-background: https://via.placeholder.com/600x300
+title:  "GRIIS will be publishing thematic datasets starting November 2025"
+date:   2025-10-03 11:00:00 +0000
+categories: updates griis
+lang-ref: griis publishing thematic datasets
+background: /assets/images/bombus_ruderatus.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+GRIIS will be publishing thematic datasets starting November 2025. The first thematic dataset will be a checklist of introduced and invasive pollinators.
 
-Jekyll requires blog post files to be named according to the following format:
+The intentional translocation of bee species (e.g. Apis, Bombus) for the puroposes of crop pollination and apiculture has had negative impacts on native pollinators and their networks
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Following the IPBES Assessment on Pollinators and Pollination (https://files.ipbes.net/ipbes-web-prod-public-files/downloads/pdf/individual_chapters_pollination_20170305.pdf) Vanbergen et al 2018 published Risks to pollinators and pollination from invasive alien species
+Vanbergen, A.J., Espíndola, A. & Aizen, M.A. Risks to pollinators and pollination from invasive alien species. Nat Ecol Evol 2, 16–25 (2018). https://doi.org/10.1038/s41559-017-0412-3
