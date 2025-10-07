@@ -3,7 +3,7 @@ permalink: contact
 lang-ref: contact
 title: Contact
 description: Global Register of Introduced and Invasive Species (GRIIS)
-background: /assets/images/background_color.png
+background: /assets/images/griis_background_colour.png
 height: 24vh
 ---
 

@@ -3,7 +3,7 @@ permalink: terms-of-use
 lang-ref: terms-of-use
 title: Terms of use
 description: Global Register of Introduced and Invasive Species (GRIIS)
-background: /assets/images/background_color.png
+background: /assets/images/griis_background_colour.png
 height: 24vh
 ---
 
