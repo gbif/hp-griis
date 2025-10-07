@@ -7,7 +7,8 @@ description: ""
 # imageLicense: |
 #   [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
 height: 48vh
-background: /assets/images/background_color.png
+background: /assets/images/jamaica_feverplant.jpg
+imageLicense: "The Jamaican Feverplant or Puncture plant (Tribulus cistoides) invades dunes, coastal areas, sandy and disturbed sites forming thick mats. The plant produces sharply spined fruits that can cause injury when stepped on, hence the name Puncture vine. © Forest and Kim Starr, Starr Environmental, Bugwood.org"
 cta:
   - text: Datasets
     href: /dataset/search
@@ -16,8 +17,8 @@ cta:
     href: /about
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
+  # - type: stats
+  #   data: examples.stats
   # - type: split
   #   data: examples.herbariumImageExample
   # - type: features
