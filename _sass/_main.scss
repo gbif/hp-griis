@@ -37,3 +37,11 @@ a {
 
 // You can add additional styling here
 @import "_example"; // either as inline css or as a separate file as in this case
+
+// Full-width exports page
+.exports-page {
+  width: 92vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
