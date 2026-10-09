@@ -1,0 +1,12 @@
+national:
+  - name: Iran
+    updated: 2026-09-01
+    file: https://griis.lon1.cdn.digitaloceanspaces.com/IRAN_NATIONAL_CHECKLIST.xlsx
+protected:
+  - name: National Park of American Samoa
+    updated: 2026-09-01
+    file: https://griis.lon1.cdn.digitaloceanspaces.com/NATIONAL_PARK_OF_AMERICAN_SAMOA_PROTECTED%20AREA.xlsx
+islands:
+  - name: Guadalcanal Island, Solomon Islands
+    updated: 2026-09-01
+    file: https://griis.lon1.cdn.digitaloceanspaces.com/GUADALCANAL_ISLAND.xlsx
